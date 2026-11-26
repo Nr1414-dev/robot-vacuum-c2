@@ -1,0 +1,1 @@
+NO-GO — Audit Gate v2 not run yet; builder commit only, kit check pending.
